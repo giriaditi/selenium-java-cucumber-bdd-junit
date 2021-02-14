@@ -14,7 +14,7 @@ Currently its in progress and aims to run on cross browsing platforms.
 
 ### Steps to clone and execute the tests
 
-git clone 
+git clone https://github.com/giriaditi/selenium-java-cucumber-bdd-junit.git
 
 cd to POM.xml path
 
