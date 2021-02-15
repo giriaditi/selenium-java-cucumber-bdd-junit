@@ -8,7 +8,7 @@ Feature: Contact Us Form
     Given The title of the page is displayed as Google
     
   @FillContactUsForm
-  Scenario: Get a Quote for Couple in Rebate Tier-0 in myOwn
+  Scenario: Fill contact us form on SecurePay website
   	When The user enter SecurePay in google search bar
     And The user click on Google Search button
     And The user click on the SecurePay link in the search result

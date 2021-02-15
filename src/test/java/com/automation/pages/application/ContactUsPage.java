@@ -14,7 +14,7 @@ public class ContactUsPage extends BasePage {
 
     @FindBy(css = "input[name='firstName']")
     private WebElement firstName;
-    @FindBy(css = "input[name='firstName']")
+    @FindBy(css = "input[name='lastName']")
     private WebElement lastName;
     @FindBy(css = "input[name='email']")
     private WebElement workEmail;
